@@ -1,4 +1,4 @@
-//  Write a program to read the marks of 5 subjects and print the total and average.
+// Write a program to read the marks of 5 subjects and print the total and average.
 
 #include <iostream>
 using namespace std;
@@ -24,4 +24,5 @@ int main () {
 
     cout << endl << "Total: " << s1 + s2 + s3 + s4 + s5 << " Out of 500 Marks" << endl;
     cout << "Average Marks: " << (s1 + s2 + s3 + s4 + s5) / 5 << endl;
+    
 }
