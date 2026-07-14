@@ -1,4 +1,4 @@
-// Write a program to read the marks of 5 subjects and print the total and average.
+//  Write a program to read the marks of 5 subjects and print the total and average.
 
 #include <iostream>
 using namespace std;
